@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart CPU Scheduler Ultimate",
+  "description": "A premium, high-performance OS simulator featuring real-time algorithm visualization, interactive Gantt charts, and professional-grade CPU scheduling analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
